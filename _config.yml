@@ -1,0 +1,24 @@
+title: UTD Computer Security Group
+email: utdcsg@gmail.com
+description: >
+  The CSG is a student organization open to all students. Our members range
+  from those who are preparing for a career in the wide field of security, to
+  those who are pursuing other careers in Computer Science and related fields
+  but would like to know more about matters of security. There are no membership
+  dues or other costs of membership, and we welcome anyone who is interested in
+  computer security.
+baseurl: ""
+url: "https://csg.utdallas.edu"
+twitter_username: utdcsg
+github_username: utdcsg
+
+# Build settings
+markdown: kramdown
+theme: ictusrye
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .bundle/
