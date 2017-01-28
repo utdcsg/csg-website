@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'CSAW 2013 Write-up: Jordan Wiens (Recon-3, 100pts)'
+date: 2013-10-08 12:24:45.000000000 -04:00
+type: post
+published: true
+status: publish
+categories:
+- Writeups
+tags: []
+meta:
+  _edit_last: '1'
+author:
+  login: csgadmin
+  email: utdcsg@gmail.com
+  display_name: csgadmin
+  first_name: ''
+  last_name: ''
+---
+<p>This is a write-up for the ‘Jordan Wiens’ Recon-3 (100pts), for CSAW 2013.</p>
+<p>For starters our hint is: "The trail starts where the trail ended." Since I solved this recon last year, I headed over to <a title="Jordan Wiens website, CSAW 2012 key" href="http://key.psifertex.com/" target="_blank">Jordan Wiens website</a> where the CSAW 2012 key was located. (After much frustration, the judges announced that the problem wasn't setup properly/user error was disabling you from solving it. The solution was to purge the cache, hence why the images are in Google Chrome Incognito windows).</p>
+<p>At Jordan Wiens Website we see:<br />
+<a href="https://csg.utdallas.edu/wp-content/uploads/2013/10/Screen-Shot-2013-09-19-at-10.59.12-PM.png"><img class="aligncenter size-full wp-image-409" alt="Jordan Wiens Recon, CSAW 2013" src="{{ site.baseurl }}/assets/Screen-Shot-2013-09-19-at-10.59.12-PM.png" width="1356" height="892" /></a><!--more--></p>
+<p>The only thing here of use to me is: "Michael Vario sure does some suspicious signs, hope he doesn't do me." If you search this string in Google (using exact phrase search, <a title="Google Search Operators" href="https://support.google.com/websearch/answer/136861?hl=en" target="_blank">Google Search Opperators</a>) you come across <a title="cinnamon_carter, tweet to Michael Vario" href="https://twitter.com/cinnamon_carter/status/354111975099342848" target="_blank">this Tweet</a> from cinnamon_carter (<a title="cinnamon_carter twitter" href="https://twitter.com/cinnamon_carter" target="_blank">@cinnamon_carter</a>):<br />
+<a href="https://csg.utdallas.edu/wp-content/uploads/2013/10/Screen-Shot-2013-09-29-at-11.57.33-PM.png"><img class="aligncenter size-full wp-image-410" alt="cinnamon_carter, tweet to Michael Vario" src="{{ site.baseurl }}/assets/Screen-Shot-2013-09-29-at-11.57.33-PM.png" width="1354" height="892" /></a></p>
+<p>Assuming that Jordan Wiens has a PGP key, we search for it (any public key server will do), and get:<br />
+<a href="https://csg.utdallas.edu/wp-content/uploads/2013/10/Screen-Shot-2013-09-19-at-10.54.18-PM.png"><img class="aligncenter size-full wp-image-411" alt="CSAW 2013, Jordan Wiens pgp key" src="{{ site.baseurl }}/assets/Screen-Shot-2013-09-19-at-10.54.18-PM.png" width="1355" height="892" /></a></p>
+<p>Here we open the first link, since he tells us "CSAW folks: getting warmer."<br />
+<a href="https://csg.utdallas.edu/wp-content/uploads/2013/10/Screen-Shot-2013-09-19-at-10.55.52-PM.png"><img class="aligncenter size-full wp-image-412" alt="CSAW 2013, Jordan Wiens pgp key" src="{{ site.baseurl }}/assets/Screen-Shot-2013-09-19-at-10.55.52-PM.png" width="1355" height="892" /></a></p>
+<p>Since we had the clue, that we're getting warmer: I decided to base64 decode his pgp key, (since pgp keys are base64 encoded, using: <a href="http://csg.utdallas.edu/wp-content/uploads/2013/10/pgpkey.txt">pgpkey.txt</a> as the input) <code>Zacks-MacBook-Pro:CSAW zack$ base64 -D pgpkey.txt &gt; base64decode</code>, which gives us: base64decode.</p>
+<p>Opening our base64decode in any hex editor, you see:<br />
+<a href="https://csg.utdallas.edu/wp-content/uploads/2013/10/Screen-Shot-2013-09-29-at-11.44.23-PM.png"><img class="aligncenter size-full wp-image-414" alt="CSAW 2013, Jordan Wiens pgp key decode" src="{{ site.baseurl }}/assets/Screen-Shot-2013-09-29-at-11.44.23-PM.png" width="1329" height="892" /></a></p>
+<p>In the ASCII text I noticed “JFIF” which I know is a <a title="List of magic numbers from Gary Kessler" href="http://www.garykessler.net/library/file_sigs.html" target="_blank">Magic Number</a> for a jpeg, (Thankfully jpeg files have a file header and file trailer), so I took the hex from “FFD8” - “FFD9” (the start and end of a jpeg file in hex) and saved the file as <a title="CSAW 2013, Jordan Wiens recon key" href="https://csg.utdallas.edu/wp-content/uploads/2013/10/magic.jpeg" target="_blank">magic.jpeg</a>. Upon opening our new image, you get:<br />
+<a href="https://csg.utdallas.edu/wp-content/uploads/2013/10/magic.jpeg"><img class="aligncenter size-full wp-image-415" alt="CSAW 2013 recon key  - Jordan Wiens" src="{{ site.baseurl }}/assets/magic.jpeg" width="276" height="50" /></a></p>
+<p>You get the flag, key{mvarioisnotmyhomeboy}.</p>
+<p>/endwriteup<br />
+-Zack</p>

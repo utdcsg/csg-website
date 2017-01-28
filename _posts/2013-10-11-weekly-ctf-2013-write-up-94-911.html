@@ -1,0 +1,35 @@
+---
+layout: post
+title: 'Weekly CTF 2013 Write-Up: 9/4 - 9/11'
+date: 2013-10-11 02:01:00.000000000 -04:00
+type: post
+published: true
+status: publish
+categories:
+- Writeups
+tags: []
+meta:
+  _edit_last: '1'
+  _wp_old_slug: csg-ctf-2013-write-up-94-911
+author:
+  login: csgadmin
+  email: utdcsg@gmail.com
+  display_name: csgadmin
+  first_name: ''
+  last_name: ''
+---
+<p>This is a write-up for the CSG CTF problem on: 9/4 - 9/11 - 10 points.</p>
+<p>For starters, our hint is: A mysterious logo appears. <a title="csg_logo7.png" href="https://csg.utdallas.edu/static/csg_logo7.png" target="_blank">https://csg.utdallas.edu/static/csg_logo7.png</a></p>
+<p>Visiting the page:<br />
+<a href="https://csg.utdallas.edu/wp-content/uploads/2013/10/csg_logo7.png"><img class="aligncenter size-full wp-image-428" alt="csg_logo7.png" src="{{ site.baseurl }}/assets/csg_logo7.png" width="950" height="180" /></a></p>
+<p><!--more--></p>
+<p>Since I have an image and the problem is only worth 10 points, I’m not expecting anything crazy, so I’ll run it through strings first. If you strings the file (<a title="Wikipedia, Strings (Unix cmd)" href="http://en.wikipedia.org/wiki/Strings_(Unix)" target="_blank">Wikipedia, Strings (Unix cmd)</a>), you see:<br />
+<a href="https://csg.utdallas.edu/wp-content/uploads/2013/10/Screen-Shot-2013-10-11-at-2.24.48-AM.png"><img class="aligncenter size-full wp-image-429" alt="Strings output, csg_logo7.png" src="{{ site.baseurl }}/assets/Screen-Shot-2013-10-11-at-2.24.48-AM.png" width="1351" height="886" /></a></p>
+<p>This isn’t much data, but it does have some Adobe ‘filler’, meaning this image was made or edited in an Adobe program (xmp:CreatorTool="Adobe Photoshop CS5 Windows" - to be exact). To be safe and not waste time, I ran it through an online ELA tool (<a title="Wikipedia, Error analysis" href="http://en.wikipedia.org/wiki/Error_analysis" target="_blank">Wikipedia, Error analysis</a>), <a title="Online ELA Tool" href="http://29a.ch/sandbox/2012/imageerrorlevelanalysis/" target="_blank">Online ELA Tool</a>.</p>
+<p>After playing with the “Error Scale” slider we get an artifact in the logo:<br />
+<a href="https://csg.utdallas.edu/wp-content/uploads/2013/10/Screen-Shot-2013-10-11-at-2.34.39-AM.png"><img class="aligncenter size-full wp-image-430" alt="Online ELA, csg_logo7.png" src="{{ site.baseurl }}/assets/Screen-Shot-2013-10-11-at-2.34.39-AM.png" width="1356" height="892" /></a></p>
+<p>You get the flag, key{YOU_FOUND_ME!}</p>
+<p>Since the key was added by changing the Gamma values, this solution was also available by using a paint bucket tool on it, such as Microsoft Paint or Gimp:<br />
+<a href="https://csg.utdallas.edu/wp-content/uploads/2013/10/paint_sol.png"><img class="aligncenter size-full wp-image-431" alt="paint_sol.png" src="{{ site.baseurl }}/assets/paint_sol.png" width="1103" height="732" /></a></p>
+<p>/endwriteup<br />
+-Zack</p>
