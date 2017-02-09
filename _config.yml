@@ -12,6 +12,9 @@ url: "https://csg.utdallas.edu"
 twitter_username: utdcsg
 github_username: utdcsg
 
+# Customizations
+permalink: /:categories/:year/:title/
+
 # Build settings
 markdown: kramdown
 theme: ictusrye
