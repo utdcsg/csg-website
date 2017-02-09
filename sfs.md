@@ -4,7 +4,7 @@ title: Cyber Security Scholarship
 permalink: /sfs/
 ---
 
-For more info: http://www.utdallas.edu/~ksarac/SFS/index.html
+For more info: <http://www.utdallas.edu/~ksarac/SFS/index.html>
 
 CyberCorps: Scholarship for Service covers tuition, fees, books, professional development, and a salary of at least $22,500 per academic year.
 
