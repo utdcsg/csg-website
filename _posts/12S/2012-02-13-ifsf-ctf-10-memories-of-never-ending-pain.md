@@ -42,18 +42,18 @@ So... after playing around with the program in debug mode, and looking at the pr
 
 Three main function calls that represent the control flow of the program:
 
-[<img src="%7B%7B%20site.baseurl%20%7D%7D/assets/debug-pic.png" title="IFSF Pic1" class="alignnone size-full wp-image-121" width="825" height="772" />](https://csg.utdallas.edu/wp-content/uploads/2012/08/debug-pic.png)
+![IFSF Picture 1]({{ site.baseurl }}/assets/debug-pic.png)
 
 Looking a little more carefully at how the user input gets stored we see a little is applied to each character, before it is finally stored in \[si\]:
 
-[<img src="%7B%7B%20site.baseurl%20%7D%7D/assets/store-user-input.png" title="IFSF Pic2" class="alignnone size-full wp-image-124" width="732" height="772" />](https://csg.utdallas.edu/wp-content/uploads/2012/08/store-user-input.png)
+![IFSF Picture 2]({{ site.baseurl }}/assets/store-user-input.png)
 
 We can also see exactly where the altered user input is compared to a hard coded string in the program. If a value does match dx get's or'd with 5, essentially acting as a flag:
 
-[<img src="%7B%7B%20site.baseurl%20%7D%7D/assets/key-comparison.png" title="IFSF Pic3" class="alignnone size-full wp-image-122" width="1465" height="993" />](https://csg.utdallas.edu/wp-content/uploads/2012/08/key-comparison.png)
+![IFSF Picture 3]({{ site.baseurl }}/assets/key-comparison.png)
 
 Finally, we now know what happens to our user input, and we can see the final string we must match. A little python script can solve this problem :
 
-[<img src="%7B%7B%20site.baseurl%20%7D%7D/assets/python-solution.png" title="IFSF Pic4" class="alignnone size-full wp-image-123" width="702" height="381" />](https://csg.utdallas.edu/wp-content/uploads/2012/08/python-solution.png)
+![IFSF Picture 4]({{ site.baseurl }}/assets/python-solution.png)
 
 And the solution is : 7R0LO101O

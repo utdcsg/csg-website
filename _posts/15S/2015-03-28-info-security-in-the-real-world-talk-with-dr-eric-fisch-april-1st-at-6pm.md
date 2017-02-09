@@ -20,7 +20,7 @@ author:
 
 Hello all!
 
-Now that there is little chance of ice storms, Dr. Eric Fisch's *Info Security in the "Real World"* talk has been rescheduled to **Wednesday, April 1st, at 6pm** **in SLC 2.303**. Room location here: [\[link\]](%20%20http://www.utdallas.edu/locator/SLC_2.303#!/SLC_2.303%20%20)
+Now that there is little chance of ice storms, Dr. Eric Fisch's *Info Security in the "Real World"* talk has been rescheduled to **Wednesday, April 1st, at 6pm** **in SLC 2.303**.
 
 Information on what will be covered can be found on the flyer here: [\[link\]](https://csg.utdallas.edu/wp-content/uploads/2015/02/CSG-Professional-Development-Series-Spring-2015.pdf)
 

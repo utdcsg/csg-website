@@ -19,7 +19,7 @@ author:
   last_name: ''
 ---
 
-This year UTD will be having its 3rd Annual Texas Security Awareness Week (TexSAW)![<img src="%7B%7B%20site.baseurl%20%7D%7D/assets/texsaw.png" alt="texsaw_logo" class="aligncenter size-full wp-image-438" width="250" height="250" />](https://csg.utdallas.edu/wp-content/uploads/2013/10/texsaw.png)
+This year UTD will be having its 3rd Annual Texas Security Awareness Week (TexSAW)![<img src="{{ site.baseurl }}/assets/texsaw.png" alt="texsaw_logo" class="aligncenter size-full wp-image-438" width="250" height="250" />](https://csg.utdallas.edu/wp-content/uploads/2013/10/texsaw.png)
 
 TexSAW is where University, governmental, and industry experts in cyber security (including data mining and malware detection) share innovative research behind combating existing threats and slowing the spread of new dangers. The three day event features tutorials, a symposium, and panel discussion as well as student workshops and competition.
 

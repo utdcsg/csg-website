@@ -21,4 +21,4 @@ Join us this Wednesday, March 26 as Kevin (aka: wompa) shares his expertise on t
 
 As usual, our meeting will be at 7pm in SLC 1.204
 
-[<img src="%7B%7B%20site.baseurl%20%7D%7D/assets/CSG-FORENSICS-FLYER.png" alt="CSG FORENSICS FLYER" class="aligncenter size-full wp-image-534" width="2550" height="3300" />](https://csg.utdallas.edu/wp-content/uploads/2014/03/CSG-FORENSICS-FLYER.png)
+[<img src="{{ site.baseurl }}/assets/CSG-FORENSICS-FLYER.png" alt="CSG FORENSICS FLYER" class="aligncenter size-full wp-image-534" width="2550" height="3300" />](https://csg.utdallas.edu/wp-content/uploads/2014/03/CSG-FORENSICS-FLYER.png)

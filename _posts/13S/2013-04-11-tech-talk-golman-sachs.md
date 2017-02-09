@@ -20,4 +20,4 @@ author:
 
 We're co-hosting an event with IEEE! Check the flyer below for details. (FREE PIZZA!!!)
 
-[<img src="%7B%7B%20site.baseurl%20%7D%7D/assets/Goldman-Sachs.jpg" alt="Goldman Sachs" class="aligncenter size-full wp-image-342" width="1275" height="1650" />](https://csg.utdallas.edu/wp-content/uploads/2013/04/Goldman-Sachs.jpg)
+[<img src="{{ site.baseurl }}/assets/Goldman-Sachs.jpg" alt="Goldman Sachs" class="aligncenter size-full wp-image-342" width="1275" height="1650" />](https://csg.utdallas.edu/wp-content/uploads/2013/04/Goldman-Sachs.jpg)
