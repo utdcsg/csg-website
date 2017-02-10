@@ -14,6 +14,7 @@ github_username: utdcsg
 
 # Customizations
 permalink: /:categories/:year/:title/
+logo: /assets/logo.png
 
 # Build settings
 markdown: kramdown
