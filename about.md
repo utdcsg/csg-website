@@ -19,5 +19,5 @@ We have presentation style meetings every Wednesday at 7pm. These meetings cover
 ### Contact
 
 * Join us on IRC at: #utdcsg on irc.oftc.net
-* Subscribe to our mailing list at: <https://lists.utdallas.edu/sympa/sigrequest/csg>
+* Subscribe to our mailing list at: <https://lists.utdallas.edu/sympa/subscribe/csg>
 * Contact us at <utdcsg@gmail.com>
