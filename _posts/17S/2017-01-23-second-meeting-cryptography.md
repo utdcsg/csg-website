@@ -7,17 +7,6 @@ published: true
 status: publish
 categories: []
 tags: []
-meta:
-  _edit_last: '1'
-  _oembed_a913a3b16f36dba7c77c5dc5497cf37c: "{{unknown}}"
-  _oembed_ed936b46146291d4a827e85e52245069: "{{unknown}}"
-  _oembed_ec47d7396178ffc20d4289709a035eb0: "{{unknown}}"
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 We will be having our second meeting of 2017 on Wednesday, January 25th at 7:00 pm in ECSS 2.311. We will be breaking and covering Classical Cryptography.

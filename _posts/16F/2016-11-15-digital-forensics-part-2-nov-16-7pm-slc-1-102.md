@@ -21,6 +21,8 @@ Meeting number 10 will take place <span class="aBn" tabindex="0" data-term="goog
 
 We are planning to have a Stressbusters meeting set up for you the <span class="aBn" tabindex="0" data-term="goog_264755100"><span class="aQJ">Wednesday</span></span> after break (11/30). Keep an ear to the ground for further details.
 
+<!--more-->
+
 Also, don't forget to apply by **<span class="aBn" tabindex="0" data-term="goog_264755101"><span class="aQJ">this Friday</span></span>** if you are interested in becoming an officer next semester. Here's the link:
 
 <https://goo.gl/uexOyu>

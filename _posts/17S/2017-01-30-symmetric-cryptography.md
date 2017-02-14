@@ -7,7 +7,9 @@ published: true
 status: publish
 ---
 We will be having our third meeting in ECSS 2.311, February  1, 2017 at
-7:00pm. We will be covering Symmetric Cryptography including: Block and Stream
+7:00pm. 
+
+We will be covering Symmetric Cryptography including: Block and Stream
 Ciphers, and how to "break" AES.
 
 Slides:

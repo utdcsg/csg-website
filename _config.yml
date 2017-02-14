@@ -16,6 +16,7 @@ github_username: utdcsg
 permalink: /:categories/:year/:title/
 logo: /assets/logo.png
 favicon: /assets/favicon.png
+excerpt_separator: "<!--more-->"
 
 # Build settings
 markdown: kramdown
