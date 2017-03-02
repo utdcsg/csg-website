@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cyber Security Scholarship
+title: Scholarship
 permalink: /sfs/
 ---
 
