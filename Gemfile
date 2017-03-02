@@ -5,7 +5,7 @@ ruby RUBY_VERSION
 gem "jekyll", "3.3.1"
 
 # Theme
-gem "ictusrye", "~> 0.3"
+gem "ictusrye", "~> 0.4"
 
 # Build Dependencies
 gem "rake", "~> 12"

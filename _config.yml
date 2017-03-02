@@ -23,7 +23,7 @@ pagination:
   enabled: true
   per_page: 7
   permalink: '/posts/:num/'
-  title: ' - posts :num'
+  title: ':title - :num'
   limit: 0
   sort_field: 'date'
   sort_reverse: true
