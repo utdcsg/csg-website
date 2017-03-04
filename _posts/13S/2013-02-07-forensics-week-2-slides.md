@@ -1,21 +1,7 @@
 ---
+date: 2013-02-07 00:00:00-06:00
 layout: post
-title: Forensics – Week 2 Slides
-date: 2013-02-07 05:02:03.000000000 -05:00
-type: post
-published: true
-status: publish
-categories:
-- Presentations
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
+title: "Forensics \u2013 Week 2 Slides"
 ---
 
 Here are the slides from the second week of the Digital Forensics presentation:

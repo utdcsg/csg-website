@@ -1,20 +1,7 @@
 ---
+date: 2015-04-07 00:00:00-06:00
 layout: post
 title: Saturday Lab and Upcoming Cyber Security Conference
-date: 2015-04-07 12:01:11.000000000 -04:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 There will be an open lab this Saturday at 12pm in ECSS 4.619 as usual.

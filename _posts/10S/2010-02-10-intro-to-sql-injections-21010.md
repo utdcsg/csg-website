@@ -1,24 +1,7 @@
 ---
+date: 2010-02-11 00:00:00-06:00
 layout: post
 title: Intro to SQL Injections
-date: 2010-02-10 20:04:11.000000000 -05:00
-type: post
-published: true
-status: publish
-categories:
-- Presentations
-tags:
-- duong
-- sql injection
-- web security
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 **Presenter**: Duong Ngo

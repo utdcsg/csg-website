@@ -1,25 +1,7 @@
 ---
+date: 2010-03-11 00:00:00-06:00
 layout: post
 title: Penetration Testing 101, Boot Camp
-date: 2010-03-10 20:21:07.000000000 -05:00
-type: post
-published: true
-status: publish
-categories:
-- Presentations
-tags:
-- backtrack
-- crash course
-- mitch
-- penetration testing
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 **Presenter**: Mitchell Adair

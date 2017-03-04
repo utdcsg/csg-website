@@ -1,24 +1,7 @@
 ---
+date: 2012-09-26 00:00:00-06:00
 layout: post
 title: Intro to Penetration Testing
-date: 2012-09-26 19:00:50.000000000 -04:00
-type: post
-published: true
-status: publish
-categories:
-- Presentations
-tags:
-- metasploit
-- pen testing
-- scott
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 **Presenter**: Scott Hand

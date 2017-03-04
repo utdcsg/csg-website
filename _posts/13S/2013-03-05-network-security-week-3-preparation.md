@@ -1,23 +1,7 @@
 ---
+date: 2013-03-06 00:00:00-06:00
 layout: post
 title: Network Security Week 3 Preparation
-date: 2013-03-05 22:19:36.000000000 -05:00
-type: post
-published: true
-status: publish
-categories:
-- Presentations
-tags:
-- demos
-- network security
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Week 3 of our Network Security section will be purely hands on. There will be a few wireless routers set up with computers attached. The goal will be to break into the wireless network, attack whatever computer you can access, and then spread to other computers in the network.

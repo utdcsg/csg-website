@@ -1,21 +1,7 @@
 ---
+date: 2013-10-20 00:00:00-06:00
 layout: post
 title: 'Hacking with Embedded Systems: Week 2'
-date: 2013-10-20 09:24:28.000000000 -04:00
-type: post
-published: true
-status: publish
-categories:
-- Presentations
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Even though a lot of our demos decided not to work (I suspect not enough sacrifices to the demo gods) I think we were still able to go over a lot interesting things like getting a full-fledged version of Kali working on a Raspberry Pi, and turning a Raspberry Pi into a honeypot! I wish the other demos didn't crumble, so we could've seen a wifi pineapple in action, but it just leaves room for more activities in the future!

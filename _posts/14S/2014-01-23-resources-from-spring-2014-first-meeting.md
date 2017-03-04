@@ -1,20 +1,7 @@
 ---
+date: 2014-01-23 00:00:00-06:00
 layout: post
 title: Resources from Spring 2014 First Meeting
-date: 2014-01-23 18:23:02.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 James (aka: jtm) collected some great resources, some of which were showcased during our first meeting this past Wednesday the 22nd.  The other resources that Daniel (aka: drx) mentioned have been added to the 'Resources.txt' file contained within the download.  The links within that document that were highlighted during the meeting have also been marked as such.

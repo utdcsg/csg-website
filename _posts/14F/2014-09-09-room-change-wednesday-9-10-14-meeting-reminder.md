@@ -1,20 +1,7 @@
 ---
+date: 2014-09-09 00:00:00-06:00
 layout: post
 title: Room Change & Wednesday 9-10-14 Meeting Reminder
-date: 2014-09-09 13:42:17.000000000 -04:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 This is a quick reminder that CSG's first meeting will be this Wednesday, the 10th, at 7:00 pm. However, **we will be gathering in JO 4.614** instead of the lab in ECSS. This room will be used for all Wednesday meetings for the rest of the fall semester. You can locate it the building on the campus map (<http://www.utdallas.edu/pdf/campusmap.pdf>) and can find the room here: <http://www.utdallas.edu/locator/JO_4.614_P>.

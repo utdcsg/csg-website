@@ -1,24 +1,7 @@
 ---
+date: 2012-02-24 00:00:00-06:00
 layout: post
 title: Shellcoding
-date: 2012-02-23 21:15:31.000000000 -05:00
-type: post
-published: true
-status: publish
-categories:
-- Presentations
-tags:
-- exploitation
-- kenneth
-- shellcoding
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 **Presenter**: Kenneth Miller

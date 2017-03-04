@@ -1,20 +1,7 @@
 ---
+date: 2014-11-11 00:00:00-06:00
 layout: post
 title: Open Lab | Saturday November 15th 2014 | JO 3.516
-date: 2014-11-10 22:15:20.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Hey guys,

@@ -1,21 +1,8 @@
 ---
+date: 2015-03-28 00:00:00-06:00
 layout: post
 title: Info Security in the "Real World" talk with Dr. Eric Fisch | April 1st at 6pm
   | SLC 2.303
-date: 2015-03-28 13:38:13.000000000 -04:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Hello all!

@@ -1,20 +1,7 @@
 ---
+date: 2016-04-05 00:00:00-06:00
 layout: post
 title: Alumni CTF and Reverse Engineering Crash Courses | April 6-7 at 7pm | SLC 1.102
-date: 2016-04-05 08:16:18.000000000 -04:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 This is a packed week in regards to CSG events. Sometime this week, we will be putting up a virtual machine on the website that you all can use for practising the format of CTF problems.

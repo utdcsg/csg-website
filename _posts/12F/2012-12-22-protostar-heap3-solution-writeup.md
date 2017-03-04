@@ -1,29 +1,10 @@
 ---
+date: 2012-12-22 00:00:00-06:00
 layout: post
 title: Protostar heap3 solution / writeup
-date: 2012-12-22 01:52:05.000000000 -05:00
-type: post
-published: true
-status: publish
-categories:
-- Writeups
-tags:
-- exploit
-- exploitation
-- heap
-- protostar
-- writeups
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
-    This is a writeup over protostar's heap3 exploitation challenge. Another member 
+This is a writeup over protostar's heap3 exploitation challenge. Another member 
     wrote a writeup over this challenge as well, be sure to check that out as well :).
 
     We have 3 heap allocations: a, b and c. So on the heap we're going to have

@@ -1,21 +1,8 @@
 ---
+date: 2015-01-15 00:00:00-06:00
 layout: post
-title: "*UPDATED* Welcome Back | Meeting Janurary 21st in ROC 1.102 & Janurary 24th
-  in ECSS 4.619"
-date: 2015-01-15 10:23:22.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
+title: '*UPDATED* Welcome Back | Meeting Janurary 21st in ROC 1.102 & Janurary 24th
+  in ECSS 4.619'
 ---
 
 **Welcome Back**

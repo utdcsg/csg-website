@@ -1,20 +1,7 @@
 ---
+date: 2012-11-12 00:00:00-06:00
 layout: post
 title: Officer Elections
-date: 2012-11-12 16:55:55.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 We're holding officer elections at the meeting this Wednesday. Be sure to get there on time if you want to vote.

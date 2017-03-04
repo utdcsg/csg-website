@@ -1,26 +1,7 @@
 ---
+date: 2012-02-14 00:00:00-06:00
 layout: post
 title: 'IFSF CTF #10 - Memories of never ending pain'
-date: 2012-02-13 21:33:43.000000000 -05:00
-type: post
-published: true
-status: publish
-categories:
-- Writeups
-tags:
-- exploitation
-- ifsf
-- mitch
-- reverse engineering
-- scott
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 **Authors**: Mitchell Adair, Scott Hand

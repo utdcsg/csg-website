@@ -1,21 +1,7 @@
 ---
+date: 2013-02-07 00:00:00-06:00
 layout: post
 title: Web Security Crash Course
-date: 2013-02-06 23:37:17.000000000 -05:00
-type: post
-published: true
-status: publish
-categories:
-- News
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 This Saturday @2pm in ECSS 2.415 will be the web security crash course taught by Scott Hand. This crash course will cover the basics of attacking web applications. Techniques such as parameter tampering, SQL injection, Cross-site Scripting, and others will be covered. By the end, you should have enough experience with these techniques to successfully secure a web application against them. The only requirement is a web browser. Firefox and the plugins TamperData and Live HTTP Headers are recommended.

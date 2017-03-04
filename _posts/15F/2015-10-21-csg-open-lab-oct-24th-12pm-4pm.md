@@ -1,20 +1,7 @@
 ---
+date: 2015-10-21 00:00:00-06:00
 layout: post
 title: CSG Open Lab | Oct. 24th 12pm-4pm | JO 4.614
-date: 2015-10-21 09:33:30.000000000 -04:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Hey guys,

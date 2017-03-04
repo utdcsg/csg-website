@@ -1,24 +1,7 @@
 ---
+date: 2010-04-22 00:00:00-06:00
 layout: post
 title: Buffer Overflows (stack)
-date: 2010-04-21 20:37:18.000000000 -04:00
-type: post
-published: true
-status: publish
-categories:
-- Presentations
-tags:
-- exploitation
-- mitch
-- stack
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 **Presenter**: Mitchell Adair

@@ -1,20 +1,7 @@
 ---
+date: 2014-01-27 00:00:00-06:00
 layout: post
 title: Meeting Wed 29th at 7pm in GR. 2.530
-date: 2014-01-27 16:01:24.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Our meeting this Wednesday the 29th at 7pm in [GR 2.530](http://www.utdallas.edu/locator/GR_2.530) will kick off our topics with Code Auditing, Reverse Engineering, and Exploitation.  The presenters with be Daniel (aka: drx) and James (aka: jtm).  We will be making use of the Protostar VM from expoit-exercises.com (linked below) during our meeting, so please go ahead and get that downloaded and setup in a Virtual Machine before we get started.  If you have any questions about getting that configured, feel free to jump on IRC and ask for some guidance.

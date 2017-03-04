@@ -1,20 +1,7 @@
 ---
+date: 2015-02-23 00:00:00-06:00
 layout: post
 title: Information Security in the "Real World" | Feb 25th 6:00pm | ECSS 2.412
-date: 2015-02-22 19:03:25.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 This Wednesday, Dr. Eric Fisch, Senior Vice President of Information Security at the Texas Capital Bank, will be sharing his experience on "Real World" Information Security. Join us on **February 25th, at 6:00pm in ECSS 2.412** for this event.

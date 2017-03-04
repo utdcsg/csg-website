@@ -1,20 +1,7 @@
 ---
+date: 2015-10-13 00:00:00-06:00
 layout: post
 title: CSG + ACM | Crowe Horwath Information Session TI Aud | Thurs Oct 15th | 8:30pm
-date: 2015-10-13 12:55:17.000000000 -04:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 CSG + ACM will be hosting a information session with Crowe Horwath this Thursday, Oct. 15th at 8:30 PM in the TI Auditorium. This will be an informal Q&A/information session about the company where you will get another chance to speak with alumni and recruiters. It will be less technical than the workshop and there will be cool swag and free pizza!

@@ -1,20 +1,7 @@
 ---
+date: 2016-02-16 00:00:00-06:00
 layout: post
 title: Cisco Presentation & Internetwache CTF
-date: 2016-02-16 15:44:11.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 This **Wednesday (February 17th) at 7 PM in SLC 1.102**, we will have Cisco Security Principal Jason Penn coming to discuss the Security Solution internship role (day to day duties/challenges/security at Cisco). Cisco is looking to hire Security Solutions Interns, so please bring your resumes. Cisco representatives will additionally be conducting interviews for these positions the day after the Career Fair on February 19th. Pizza will be provided.

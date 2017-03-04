@@ -1,27 +1,7 @@
 ---
+date: 2011-10-13 00:00:00-06:00
 layout: post
 title: Reversing - Binary Unpacking and De-obfuscation
-date: 2011-10-12 20:55:56.000000000 -04:00
-type: post
-published: true
-status: publish
-categories:
-- Presentations
-tags:
-- idapro
-- jacolon
-- james
-- mitch
-- packers
-- reverse engineering
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 **Presenters**: James McFadyen, Jacolon Walker, Mitchell Adair

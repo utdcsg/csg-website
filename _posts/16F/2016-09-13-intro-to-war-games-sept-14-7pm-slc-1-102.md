@@ -1,20 +1,7 @@
 ---
+date: 2016-09-13 00:00:00-06:00
 layout: post
 title: Intro to War Games | Sept. 14, 7pm | SLC 1.102
-date: 2016-09-13 12:04:02.000000000 -04:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 We are holding our second CSG meeting of the semester **this Wednesday night (9/14) in SLC 1.102**. At this meeting, we will be doing an "Intro to Wargaming" exercise.  We will be going through the exercises located at:
@@ -32,5 +19,3 @@ As always, contact me with any questions or concerns. Looking forward to seeing 
 Presentation Slides:
 
 <https://docs.google.com/presentation/d/1_gn7CSx-Qig_XK3nTt66FqD2-WL6QUKNiuTDX0GcrUQ/edit?usp=sharing>
-
-

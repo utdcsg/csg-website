@@ -1,20 +1,7 @@
 ---
+date: 2016-03-23 00:00:00-06:00
 layout: post
 title: VolgaCTF & Lab for Telecommunication Sciences | ECSS 4.619
-date: 2016-03-23 00:57:02.000000000 -04:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 On <span class="aBn" tabindex="0" data-term="goog_2132038479"><span class="aQJ">March 25th</span></span>, CSG will be participating in the VolgaCTF competition. The CTF competition will begin at <span class="aBn" tabindex="0" data-term="goog_2132038480"><span class="aQJ">9 AM</span></span>. Lab times will be posted on the website later this week.

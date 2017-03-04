@@ -1,21 +1,7 @@
 ---
+date: 2013-09-11 00:00:00-06:00
 layout: post
 title: CTF Write-Ups and First Crash Course
-date: 2013-09-11 13:42:49.000000000 -04:00
-type: post
-published: true
-status: publish
-categories:
-- News
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Tonight we'll be presenting some wrtie-ups from past CTFs. This should be a good chance to see what kind of problems you'll see in a CTF and hopefully you'll enjoy some of the problems we chose. We'll also be finalizing our topics for the semester, so be sure to come with ideas for topics that you'd like to see or present. Our meeting tonight will be in ECSS 2.103B (the open CS lab). This isn't our first choice for rooms but we should at least have enough chairs for everyone this week.

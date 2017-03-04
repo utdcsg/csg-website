@@ -1,20 +1,7 @@
 ---
+date: 2016-01-15 00:00:00-06:00
 layout: post
 title: Self-Defending Web Apps Presentation with TI | Wed. Jan. 20 7:00pm | JO 3.516
-date: 2016-01-15 13:12:33.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 I hope everyone had an enjoyable break and is ready for the new semester.

@@ -1,20 +1,7 @@
 ---
+date: 2016-02-19 00:00:00-06:00
 layout: post
 title: Internetwache Lab Times
-date: 2016-02-19 16:42:25.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 The CTF will take place from 5AM on Feb 20 to 5PM on Feb 21.

@@ -1,20 +1,7 @@
 ---
+date: 2014-11-02 00:00:00-06:00
 layout: post
 title: 'CSG Meetings: Nov 5, Nov 19; 7pm in JO 4.614'
-date: 2014-11-02 17:53:04.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Location: JO 4.614
@@ -26,5 +13,3 @@ This Wednesday we encourage everyone who has been involved thus far this semest
 -Jiayang Wang
 
 CSG Treasurer
-
- 

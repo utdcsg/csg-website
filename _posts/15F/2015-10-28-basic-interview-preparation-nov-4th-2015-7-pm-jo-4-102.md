@@ -1,20 +1,7 @@
 ---
+date: 2015-10-28 00:00:00-06:00
 layout: post
 title: Basic Interview Preparation | Nov 4th 2015 7 pm | JO 4.102
-date: 2015-10-28 12:16:37.000000000 -04:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Hey guys,

@@ -1,10 +1,7 @@
 ---
+date: 2017-03-01 00:00:00-06:00
 layout: post
 title: Find the Ninja CTF
-date: 2017-03-01 07:00:00.000000000 -05:00
-type: post
-published: true
-status: publish
 ---
 
 Cigital is running Find the Ninja CTF here at UTD on March 25th, 2017. Find the Ninja is designed to be friendly for beginners while still providing a challenge to those more knowledgable.

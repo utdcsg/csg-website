@@ -1,20 +1,7 @@
 ---
+date: 2014-06-26 00:00:00-06:00
 layout: post
 title: CSG Summer Activities
-date: 2014-06-26 09:59:18.000000000 -04:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Due to the change in schedules of many of our members, as well as many being out of town for internships or enjoying the break elsewhere, we are not holding our regular Wednesday meetings during the summer.

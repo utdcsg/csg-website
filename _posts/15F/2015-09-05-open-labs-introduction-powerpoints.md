@@ -1,20 +1,7 @@
 ---
+date: 2015-09-05 00:00:00-06:00
 layout: post
 title: Open Labs Introduction Powerpoints
-date: 2015-09-05 12:26:01.000000000 -04:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Thank you all for coming to the Open Lab! Here are all the power points presented at this open lab.

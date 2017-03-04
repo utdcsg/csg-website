@@ -1,24 +1,7 @@
 ---
+date: 2013-02-10 00:00:00-06:00
 layout: post
 title: Web Security Crash Course
-date: 2013-02-10 00:25:13.000000000 -05:00
-type: post
-published: true
-status: publish
-categories:
-- Presentations
-tags:
-- crash course
-- scott
-- web
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 **Presenter**: Scott Hand

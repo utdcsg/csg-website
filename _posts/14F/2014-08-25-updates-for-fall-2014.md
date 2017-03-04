@@ -1,20 +1,7 @@
 ---
+date: 2014-08-25 00:00:00-06:00
 layout: post
 title: Updates for Fall 2014
-date: 2014-08-25 12:39:30.000000000 -04:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 I hope everyone had an enjoyable break over the summer. A few quick updates about CSG activities this semester as we get started this fall.
@@ -28,5 +15,3 @@ We're looking forward to this semester, and we hope to see as many people as are
 Thanks,
 Daniel
 CSG President
-
-

@@ -1,20 +1,7 @@
 ---
+date: 2016-02-27 00:00:00-06:00
 layout: post
 title: CTF this weekend (SSCTF)
-date: 2016-02-26 19:52:59.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 **CSG will not be participating in this CTF as a group**

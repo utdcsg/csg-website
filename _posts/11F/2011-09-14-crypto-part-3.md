@@ -1,26 +1,7 @@
 ---
+date: 2011-09-15 00:00:00-06:00
 layout: post
 title: Crypto Part 3
-date: 2011-09-14 20:48:03.000000000 -04:00
-type: post
-published: true
-status: publish
-categories:
-- Presentations
-tags:
-- camron
-- crypto
-- donald
-- kevin
-- password cracking
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 **Presenters**: Camron Q., Kevin Hulin, Donald Talkington

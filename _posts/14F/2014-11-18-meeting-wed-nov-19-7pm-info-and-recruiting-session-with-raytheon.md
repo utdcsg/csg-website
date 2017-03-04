@@ -1,20 +1,7 @@
 ---
+date: 2014-11-18 00:00:00-06:00
 layout: post
 title: 'UPDATED: Meeting Wed Nov 19 @ 7pm - Info and Recruiting session with Raytheon'
-date: 2014-11-18 12:02:13.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Bring your resume and join us in JO 4.614 this Wednesday Nov 19th at 7pm. We will be hosting some guests from Raytheon's security engineering team who will be here for a presentation, Q&A, and accepting resumes and speaking to interested students.

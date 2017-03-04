@@ -1,22 +1,7 @@
 ---
+date: 2013-10-13 00:00:00-06:00
 layout: post
 title: 3rd Annual TexSAW!
-date: 2013-10-13 09:40:29.000000000 -04:00
-type: post
-published: true
-status: publish
-categories:
-- News
-tags:
-- texsaw
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 This year UTD will be having its 3rd Annual Texas Security Awareness Week (TexSAW)![<img src="{{ site.baseurl }}/assets/texsaw.png" alt="texsaw_logo" class="aligncenter size-full wp-image-438" width="250" height="250" />](https://csg.utdallas.edu/wp-content/uploads/2013/10/texsaw.png)

@@ -1,20 +1,7 @@
 ---
+date: 2015-01-29 00:00:00-06:00
 layout: post
 title: Website Down | Friday Jan 30th | 9am - 10 am
-date: 2015-01-29 08:08:40.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Hey guys,

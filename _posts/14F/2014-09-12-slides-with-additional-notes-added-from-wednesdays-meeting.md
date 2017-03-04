@@ -1,20 +1,7 @@
 ---
+date: 2014-09-12 00:00:00-06:00
 layout: post
 title: Slides (with additional notes added) From Wednesday's Meeting
-date: 2014-09-12 10:46:42.000000000 -04:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 We had an excellent turnout for our meeting this past Wednesday, but for anyone who was not able to attend the meeting, here are the slides. A few notes have been added for information that was discussed, but not shown on the original slides.

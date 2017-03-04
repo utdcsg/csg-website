@@ -1,20 +1,7 @@
 ---
+date: 2015-11-19 00:00:00-06:00
 layout: post
 title: Volunteer for Women In Cybersecurity Conference (WiCyS)
-date: 2015-11-18 22:02:11.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 UTD is hosting the<span class="Apple-converted-space"> </span>**Women In Cybersecurity Conference**<span class="Apple-converted-space"> </span>**(WiCyS)**<span class="Apple-converted-space"> </span>next semester and we need volunteers! This is an excellent opportunity for anyone interested in cybersecurity.

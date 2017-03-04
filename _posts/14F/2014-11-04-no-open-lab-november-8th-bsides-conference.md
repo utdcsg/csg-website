@@ -1,20 +1,7 @@
 ---
+date: 2014-11-04 00:00:00-06:00
 layout: post
 title: No Open Lab November 8th | BSides conference
-date: 2014-11-04 11:22:39.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Hey guys,

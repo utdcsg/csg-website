@@ -1,20 +1,7 @@
 ---
+date: 2016-01-28 00:00:00-06:00
 layout: post
 title: Data & Security Panel with State Farm | Feb. 3 | 6:00pm
-date: 2016-01-28 14:12:29.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 On **February 3**, we will have a Data & Security Panel Discussion hosted by State Farm. This panel will be a great way to discuss topics like security threats, security controls, and data movement/data complexity with with some of State Farm's executives. The event will be in **[SLC 1.102](http://www.utdallas.edu/locator/SLC_1.102)** at **6:00pm.** There will also be free pizza at the event.

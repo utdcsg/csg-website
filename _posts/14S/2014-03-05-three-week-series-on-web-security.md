@@ -1,20 +1,7 @@
 ---
+date: 2014-03-05 00:00:00-06:00
 layout: post
 title: Three Week Series on Web Security
-date: 2014-03-05 10:28:42.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 On February 26th Solomon and Josh started their three week series on Web Security.  Presentations are held during our weekly meetings at 7pm every Wednesday in SLC 1.204.  Materials from their presentations will be updated here as they continue.

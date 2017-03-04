@@ -1,12 +1,7 @@
 ---
+date: 2017-01-23 00:00:00-06:00
 layout: post
 title: Second Meeting (Cryptography)
-date: 2017-01-23 13:31:16.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
 ---
 
 We will be having our second meeting of 2017 on Wednesday, January 25th at 7:00 pm in ECSS 2.311. We will be breaking and covering Classical Cryptography.

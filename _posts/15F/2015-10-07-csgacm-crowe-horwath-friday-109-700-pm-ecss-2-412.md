@@ -1,20 +1,7 @@
 ---
+date: 2015-10-07 00:00:00-06:00
 layout: post
 title: CSG+ACM Crowe Horwath | Friday 10/9 7:00 pm | ECSS 2.412
-date: 2015-10-07 14:14:12.000000000 -04:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Hey Guys,
@@ -28,5 +15,3 @@ Best Regards,
 Jiayang Wang
 
 CSG Vice President
-
- 

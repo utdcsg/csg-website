@@ -1,9 +1,7 @@
 ---
+date: 2015-11-07 00:00:00-06:00
 layout: post
 title: Mock Interview with the Industry | Nov 14th 11am - 3pm | SPN Building
-date: 2015-11-07 14:52:49.000000000 -05:00
-type: post
-published: true
 ---
 
 Do you want a job at TI or State Farm? If you answered yes, this is the event for you! Interviewers from TI, StateFarm, and other industry giants are here to help you prepare for interviews!

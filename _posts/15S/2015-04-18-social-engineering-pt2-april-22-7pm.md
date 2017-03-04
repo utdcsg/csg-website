@@ -1,20 +1,7 @@
 ---
+date: 2015-04-18 00:00:00-06:00
 layout: post
 title: Social Engineering pt2 | April 22 | 7pm
-date: 2015-04-18 13:09:49.000000000 -04:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 There will be a meeting **Wednesday, April 22nd at 7:00pm in ECSS 2.201**! Kevin Henson from Cyber Defense Labs will be ending the semester with a followup social engineering workshop.

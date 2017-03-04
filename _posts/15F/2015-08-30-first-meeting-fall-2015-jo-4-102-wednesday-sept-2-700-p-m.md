@@ -1,20 +1,7 @@
 ---
+date: 2015-08-30 00:00:00-06:00
 layout: post
 title: First Meeting Fall 2015 | JO 4.102 | Wednesday, Sept. 2 7:00 p.m.
-date: 2015-08-30 14:51:24.000000000 -04:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Hey guys,

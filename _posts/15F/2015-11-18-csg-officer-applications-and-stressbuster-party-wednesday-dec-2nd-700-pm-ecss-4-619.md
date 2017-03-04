@@ -1,21 +1,8 @@
 ---
+date: 2015-11-19 00:00:00-06:00
 layout: post
 title: CSG Officer Applications and Stressbuster Party | Wednesday Dec 2nd 7:00 pm
   | ECSS 4.619
-date: 2015-11-18 22:09:04.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Its that time of the year again. CSG is looking for officers! We are looking for people who are dedicated and would like to contribute to the group. We have many positions open and most do not require any security knowledge. You can view what the job requirements are and apply here: <https://goo.gl/UjfpEC>.

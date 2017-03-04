@@ -1,20 +1,7 @@
 ---
+date: 2016-04-01 00:00:00-06:00
 layout: post
 title: CTF with Alumni and Officer Positions
-date: 2016-04-01 12:37:52.000000000 -04:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Just a reminder that there WILL be a lab this **Saturday, April 2, 12-4pm in ECSS 4.619** prepping for the event next week.

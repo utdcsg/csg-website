@@ -1,20 +1,7 @@
 ---
+date: 2015-02-05 00:00:00-06:00
 layout: post
 title: North Texas Regional Open House | Friday February 13th  2015 9 am| ATEC Hall
-date: 2015-02-04 21:22:06.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Hey guys,

@@ -1,20 +1,7 @@
 ---
+date: 2016-10-26 00:00:00-06:00
 layout: post
 title: Intro to Web Security Part 2 | Oct. 26, 7p | SLC 1.102
-date: 2016-10-26 14:33:43.000000000 -04:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 We will meet <span class="aBn" tabindex="0" data-term="goog_399432804"><span class="aQJ">tomorrow</span></span> (<span class="aBn" tabindex="0" data-term="goog_399432805"><span class="aQJ">Wednesday</span></span>) night in at the usual time/place (<span class="aBn" tabindex="0" data-term="goog_399432806"><span class="aQJ">7pm</span></span> in  SLC 1.102) to continue our series on Web Security. We will have lectures and exercises covering SQL injection, Cross-Site Scripting (XSS), Cross-Site Request Forgery, and Server-Side Includes.
@@ -24,5 +11,3 @@ The EKOPARTY CTF is this week <span class="aBn" tabindex="0" data-term="goog_399
 Next week, we will be using our meeting to work on more Capture-The-Flag problems related to Web Security. Should be a good time!
 
 <http://utd.edu/t/2528>
-
-

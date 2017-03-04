@@ -1,21 +1,7 @@
 ---
+date: 2013-02-28 00:00:00-06:00
 layout: post
-title: Network Security – Week 2 Slides
-date: 2013-02-28 09:52:35.000000000 -05:00
-type: post
-published: true
-status: publish
-categories:
-- Presentations
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
+title: "Network Security \u2013 Week 2 Slides"
 ---
 
 [Network Security Week 2](http://csg.utdallas.edu/wp-content/uploads/2013/02/Network-Security-Week-2.pdf)

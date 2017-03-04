@@ -1,25 +1,7 @@
 ---
+date: 2012-03-24 00:00:00-06:00
 layout: post
 title: Application Security, Part 1
-date: 2012-03-23 21:18:19.000000000 -04:00
-type: post
-published: true
-status: publish
-categories:
-- Presentations
-tags:
-- application security
-- fuzzing
-- kevin
-- symbolic execution
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 **Presenter**: Kevin Hulin

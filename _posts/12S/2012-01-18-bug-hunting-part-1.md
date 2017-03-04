@@ -1,25 +1,7 @@
 ---
+date: 2012-01-19 00:00:00-06:00
 layout: post
 title: Bug Hunting, Part 1
-date: 2012-01-18 21:03:41.000000000 -05:00
-type: post
-published: true
-status: publish
-categories:
-- Presentations
-tags:
-- bug hunting
-- echoserver
-- exploitation
-- mitch
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 **Presenter**: Mitchell Adair

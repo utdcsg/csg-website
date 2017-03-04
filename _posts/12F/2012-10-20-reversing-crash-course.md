@@ -1,26 +1,7 @@
 ---
+date: 2012-10-20 00:00:00-06:00
 layout: post
 title: Reversing Crash Course
-date: 2012-10-20 14:00:52.000000000 -04:00
-type: post
-published: true
-status: publish
-categories:
-- Presentations
-tags:
-- crash course
-- ida
-- mitch
-- ollydbg
-- reversing
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 **Presenter**: Mitchell Adair

@@ -1,20 +1,7 @@
 ---
+date: 2015-03-04 00:00:00-06:00
 layout: post
 title: Info Security Talk POSTPONED
-date: 2015-03-03 22:55:39.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Due to the weather conditions on Wednesday evening, the talk with Dr. Eric will be postponed. The date is yet to be decided. We apologize for these delays!

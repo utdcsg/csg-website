@@ -1,20 +1,7 @@
 ---
+date: 2016-11-15 00:00:00-06:00
 layout: post
 title: Digital Forensics Part 2 | Nov. 16, 7pm | SLC 1.102
-date: 2016-11-15 17:21:29.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Meeting number 10 will take place <span class="aBn" tabindex="0" data-term="goog_264755098"><span class="aQJ">this Wednesday</span></span> at the regular time and place (<span class="aBn" tabindex="0" data-term="goog_264755099"><span class="aQJ">7pm</span></span> in SLC 1.102). We will be covering topics in steganography and metadata analysis. **Try to bring an Ubuntu virtual machine with you if possible. **As usual, pizza will be provided.
@@ -34,5 +21,3 @@ UPDATE:
 MEETING IS NOW IN ECSS 4.619
 
 <http://utd.edu/t/2530>
-
-

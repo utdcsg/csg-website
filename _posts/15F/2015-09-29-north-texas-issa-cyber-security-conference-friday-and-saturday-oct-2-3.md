@@ -1,20 +1,7 @@
 ---
+date: 2015-09-30 00:00:00-06:00
 layout: post
 title: North Texas ISSA Cyber Security Conference | Friday and Saturday | Oct. 2-3
-date: 2015-09-29 22:19:31.000000000 -04:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Hello Everyone,

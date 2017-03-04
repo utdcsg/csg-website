@@ -1,20 +1,7 @@
 ---
+date: 2015-11-05 00:00:00-06:00
 layout: post
 title: BSidesDFW | Saturday, 11/7, 8 AM - 6 PM | UT Dallas SLC Building
-date: 2015-11-05 15:11:47.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Hey guys,

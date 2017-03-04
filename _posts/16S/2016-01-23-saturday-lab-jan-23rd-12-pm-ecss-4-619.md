@@ -1,20 +1,7 @@
 ---
+date: 2016-01-23 00:00:00-06:00
 layout: post
 title: Saturday Lab | Jan 23rd | 12 PM | ECSS 4.619
-date: 2016-01-23 11:09:39.000000000 -05:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 Hey guys,
@@ -28,5 +15,3 @@ Additional files: [passwords](https://csg.utdallas.edu/wp-content/uploads/2016/0
 Thank you and we are looking forward for a great semester!
 Jiayang Wang
 CSG President
-
- 

@@ -1,27 +1,7 @@
 ---
+date: 2011-10-21 00:00:00-06:00
 layout: post
 title: Reversing - Mobile Application Analysis on Android
-date: 2011-10-20 21:00:04.000000000 -04:00
-type: post
-published: true
-status: publish
-categories:
-- Presentations
-tags:
-- android
-- jacolon
-- james
-- mitch
-- mobile
-- reverse engineering
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 **Presenters**: James McFadyen, Jacolon Walker, Mitchell Adair

@@ -1,20 +1,7 @@
 ---
+date: 2016-09-27 00:00:00-06:00
 layout: post
 title: CTF Challenges | Sept. 28, 7pm | SLC 1.102
-date: 2016-09-27 12:50:54.000000000 -04:00
-type: post
-published: true
-status: publish
-categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: csgadmin
-  email: utdcsg@gmail.com
-  display_name: csgadmin
-  first_name: ''
-  last_name: ''
 ---
 
 We will hold meeting number four <span data-term="goog_1002291038">this Wednesday</span> (9/28) at <span data-term="goog_1002291039">7pm</span> in SLC 1.102. We will be going over problems from the recent CSAW CTF, so please join us for what should be a very educational evening.
