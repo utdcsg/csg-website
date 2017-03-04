@@ -2,7 +2,7 @@
 title: Cryptography Overview
 presenter: Kevin Henson (Guest)
 slides: /assets/slides/cryptography_overview.pdf
-date: 2014-10-19
+date: 2014-10-08
 tags: cryptography
 layout: presentation
 ---
