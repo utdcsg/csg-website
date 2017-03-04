@@ -18,6 +18,11 @@ logo: /assets/logo.png
 favicon: /assets/favicon.png
 excerpt_separator: "<!--more-->"
 
+#  Collections
+collections:
+  presentations:
+    output: true
+
 # Pagination
 pagination:
   enabled: true

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<h1>{{ page.title | escape }}</h1>
+<hr class="listing-hr"></hr>
+<p class="meta">
+  {% if page.presenter %}
+  <span class="presenter">{{ page.presenter | escape }} | </span>
+  {% endif %}
+  <span class="date">{{ page.date | date_to_long_string }}</span>
+</p>
+<p class="slides">
+  <span style="font-weight: bold">Slides:</span> <a href="{{ page.slides | prepend: site.baseurl }}">{{ page.slides | prepend: site.baseurl }}</a>
+</p>
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+	{{ content }}
+  </div>
+</div>	

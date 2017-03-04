@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <div class="jumbotron jumbotron-fluid">
+	<div class="container">
+	  {{ content | escape }}
+	</div>
+  </div>	
+
+   {% for post in paginator.posts %}
+  <h2 class="listing-title"><a href="{{ post.url | relative_url }}" class="listing-link">{{ post.title | escape }}</a></h2>
+  <p class="meta text-muted">
+	{% if post.presenter %}
+    <span class="presenter">{{ post.presenter | escape }} | </span>
+	{% endif %}
+    <span class="date">{{ post.date | date_to_long_string }}</span>
+  </p>
+  <div class="slides">
+	<span style="font-weight: bold">Slides:</span> <a href="{{ post.slides | prepend: site.baseurl }}">{{ post.slides | prepend: site.baseurl }}</a>
+  </div>
+  <div class="excerpt">
+	{{ post.excerpt }}
+  </div>
+  {% unless forloop.last %}
+  <hr class="listing-hr"></hr>
+  {% endunless %}
+  {% endfor %}
+
+  {% if paginator.total_pages > 1 %}
+  <nav aria-label="Pagination Navigation">
+	<ul class="pagination justify-content-center">
+      {% if paginator.previous_page %}
+	  <li class="page-item">
+		<a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" tabindex="-1">Previous</a>
+	  </li>
+	  {% else %}
+ 	  <li class="page-item disabled">
+		<a class="page-link" href="#" tabindex="-1">Previous</a>
+	  </li>
+      {% endif %}
+      {% if paginator.next_page %}
+	  <li class="page-item">
+		<a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next</a>
+	  </li>
+	  {% else %}
+   	  <li class="page-item disabled">
+		<a class="page-link" href="#">Next</a>
+	  </li>
+      {% endif %}
+	</ul>
+  </nav>
+  {% endif %}
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+</div>
