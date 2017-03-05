@@ -1,7 +1,7 @@
 ---
 title: Input Sanitization
 presenter: Corrin Thompson
-slides: /assets/slides/input_sanitizaion.pdf
+slides: /assets/slides/input_sanitization.pdf
 date: 2016-10-12
 tags: web
 layout: presentation
