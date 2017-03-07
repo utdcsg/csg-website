@@ -1,0 +1,9 @@
+---
+layout: post
+title: Reverse Engineering
+date: 2017-03-07 07:00:00.000000000 -05:00
+---
+
+We will be having our sixth meeting in ECSS 2.311, March 1st, 2017 at
+7:00pm. We will be covering Reverse Engineering PE and ELF files.
+
