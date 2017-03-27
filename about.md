@@ -8,9 +8,9 @@ We are the Computer Security Group of The University of Texas at Dallas.
 
 ### Current Officers
 * Ian Brown (President)
-* Kyle Tillotson (Vice-President)
-* Andrew (Secretary)
-* Alan Padilla (Treasurer)
+* Kyle Tillotson (Grand Vizier)
+* Andrew Mirghassemi (Junior Password Inspector)
+* Alan Padilla (Master of Coin)
 * Nicklaus McClendon (Password Inspector)
 
 ### General Meetings
