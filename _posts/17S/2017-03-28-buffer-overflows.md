@@ -11,3 +11,5 @@ Needed to follow along with the presentation:
 A Linux VM (32-bit or 64-bit with 32-bit libraries installed)
 
 [These exploitable files](https://csg.utdallas.edu/assets/buffer_overflow.zip)
+
+Slides: <https://docs.google.com/presentation/d/19zvCTrX693xVwKhcrCiWJn0U-qa962WoDC8rpKjna18/edit?usp=sharing>

@@ -1,7 +1,7 @@
 ---
 title: Intro to Stack Overflows
 presenter: James McFadyen
-slides: /assets/slides/stackoverflows.pdf
+slides: /assets/slides/stack_overflows.pdf
 date: 2011-09-18
 tags: binary
 layout: presentation
