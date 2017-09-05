@@ -10,6 +10,7 @@ gem "ictusrye", "~> 0.4"
 # Build Dependencies
 gem "rake", "~> 12"
 gem "html-proofer", "~> 3.4"
+gem "json"
 
 # Jekyll Plugins
 group :jekyll_plugins do
